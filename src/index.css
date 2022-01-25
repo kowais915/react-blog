@@ -1,0 +1,40 @@
+.container{
+  display: flex;
+  font-size: 2.5vw;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  
+}
+
+a{
+  text-decoration: none;
+  margin: 0.5em;
+  color: white;
+  
+}
+
+li{
+
+  list-style-type: none;
+  
+}
+
+#btn{
+  font-size: 20px;
+}
+
+.preview{
+  border: 2px pink solid;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+p{
+  font-size: 18px;
+}
+.logo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 10px;
+  font-size: 50px;
+}
